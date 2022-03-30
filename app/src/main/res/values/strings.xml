@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizLutfiAldriPermana</string>
+    <string name="NamaPelanggan">Nama Pelanggan</string>
+    <string name="AlamatPelanggan">Alamat Pelanggan</string>
+    <string name="JenisKelamin">Jenis Kelamin</string>
+    <string name="pria">Pria</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="cancel">Cancel</string>
+    <string name="prosees">Prosees</string>
+    <string name="windows_phone">Windows Phone</string>
+    <string name="iphone">Iphone</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="biasa">Biasa</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="android">Android</string>
+</resources>
